@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+  background-color: #ffa1a9;
+  background-size: cover;
+  padding: 20px;
+}
+
+.icon {
+  color: #4a3e6f;
+}
+
+.icon-heading {
+  font-size: 14px;
+  color: #4a3e6f;
+  margin-top: 10px;
+}
+
+.name {
+  font-size: 28px;
+  color: #4a3e6f;
+  font-weight: bold;
+}
+
+.vertical-line1 {
+  background-color: #4a3e6f;
+  color: #4a3e6f;
+  border-width: 0px;
+  height: 100px;
+  width: 2px;
+}
+
+.vertical-line2 {
+  background-color: #4a3e6f;
+  color: #4a3e6f;
+  border-width: 0px;
+  height: 200px;
+  width: 2px;
+}
+
+.px {
+  margin-left: 3px;
+  background-color: #2a2a63;
+
+  height: 10px;
+  width: 10px;
+  border-radius: 8px;
+}
+
+.text-size {
+  font-size: 12px;
+  color: #4a3e6f;
+}
+
+.horizontal-line {
+  background-color: #4a3e6f;
+  border-width: 4px;
+}
+
+.role {
+  color: #4a3e6f;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.years {
+  font-size: 12px;
+  color: #4a3e6f;
+}
+
+.interests-icon-container {
+  background-color: #4a3e6f;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+
+.interest-icon {
+  color: #ffa1a9;
+}
+
+.intrest-heading {
+  font-size: 14px;
+  color: #4a3e6f;
+  margin-top: 10px;
+}
+
+@media (min-width: 768px) {
+  .years {
+    margin-bottom: 35px;
+  }
+}
+
+@media (min-width: 768px) {
+  .px {
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .skill-years {
+    margin-bottom: 45px;
+  }
+}
+
+.text-size2 {
+  font-size: 15px;
+  color: #4a3e6f;
+}
